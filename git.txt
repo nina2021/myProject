@@ -1,1 +1,2 @@
 what i can do with git
+i add some line for my file 
